@@ -2,5 +2,10 @@
 
 <h2>Plugin Core</h2>
 <ol>
-  <li>Instance</li>
+  <li>
+    Referencias
+    <ul>
+      <li>Importar referencias</li>
+    </ul>
+  </li>
 </ol>
